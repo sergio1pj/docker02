@@ -2,12 +2,12 @@
   "name": "nodejs-image-demo",
   "version": "1.0.0",
   "description": "nodejs image demo",
-  "author": "katjuell <kathleenjuell@gmail.com>",
+  "author": "sergio",
   "license": "MIT",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/katjuell/nodejs-image-demo.git"
+    "url": "https://github.com/sergio1pj/docker02.git"
   },
   "keywords": [
     "nodejs",
@@ -18,5 +18,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
   }
 }
